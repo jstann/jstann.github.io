@@ -1,0 +1,44 @@
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.little-prince {
+    width: 370px;
+    margin: 40px auto;
+    font-family: Georgia, "Times New Roman", serif;
+    font-size: 15px;
+    line-height: 1.1;
+}
+
+.little-prince img {
+    width: 370px;
+    display: block;
+    margin-bottom: 5px;
+}
+
+.little-prince p {
+    margin-top: 0;
+    margin-bottom: 0;
+    text-align: left;
+}
+
+.little-prince .underline {
+    text-decoration: underline;
+}
+
+.little-prince .orange-highlight {
+    background-color: orange;
+}
+
+.little-prince .red-text {
+    color: red;
+}
+
+.little-prince a {
+    display: block;
+    margin-top: 20px;
+    font-family: Arial, sans-serif;
+    color: blue;
+}
