@@ -1,4 +1,4 @@
-# Jasmine Tann - Personal Website
+# Assignment 2 
 
 This repository contains my personal website and The Little Prince.
 
